@@ -23,5 +23,3 @@ A ideia do curso era desenvolver um blog e criar as rotas para as páginas dinam
 - Sass
 - Git
 - Github
-
-## Link do projeto 🔗
